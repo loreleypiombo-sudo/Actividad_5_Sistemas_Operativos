@@ -1,5 +1,6 @@
 'use strict';
 let estado = true;
+//
 
 const productos = [
     {
