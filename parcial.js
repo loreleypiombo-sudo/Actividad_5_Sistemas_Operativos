@@ -9,6 +9,7 @@ const productos = [
         precio: 150000,
         imagen: "img/autos-rojo.webp",
         categoria: "como nuevo",
+        condicion: "Nuevo Producto"
     },
     {
         id: 2,
@@ -17,6 +18,7 @@ const productos = [
         precio: 120000,
         imagen: "img/botas-daphne.webp",
         categoria: "usado",
+        condicion: "Temporada 2025"
     },
     {
         id: 3,
@@ -25,6 +27,7 @@ const productos = [
         precio: 130000,
         imagen: "img/zuecos-celeste.webp",
         categoria: "vegano",
+        condicion: "Temporada 2025"
     },
     {
         id: 4,
@@ -33,6 +36,7 @@ const productos = [
         precio: 110000,
         imagen: "img/gatitos-negro.webp",
         categoria: "como nuevo",
+        condicion: "Temporada 2024"
     },
     {
         id: 5,
@@ -41,6 +45,7 @@ const productos = [
         precio: 140000,
         imagen: "img/caras-rosa.webp",
         categoria: "usado",
+        condicion: "Nuevo Producto"
     },
     {
         id: 6,
@@ -49,6 +54,7 @@ const productos = [
         precio: 125000,
         imagen: "img/vaquitas.webp",
         categoria: "vegano",
+        condicion: "Temporada 2024"
     }
 ];
 
