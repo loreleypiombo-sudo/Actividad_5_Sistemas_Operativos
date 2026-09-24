@@ -1,5 +1,4 @@
 'use strict';
-let estado = true;
 
 const productos = [
     {
@@ -8,8 +7,7 @@ const productos = [
         descripcion: "Rojo furioso de cuero 1000% vacuno, con unos detalles que traspasan los años.",
         precio: 150000,
         imagen: "img/autos-rojo.webp",
-        categoria: "como nuevo",
-        condicion: "Nuevo Producto"
+        categoria: "como nuevo"
     },
     {
         id: 2,
@@ -17,8 +15,7 @@ const productos = [
         descripcion: "Botas de lluvia con toda la personalidad de la marca, con un diseño que te hará destacar.",
         precio: 120000,
         imagen: "img/botas-daphne.webp",
-        categoria: "usado",
-        condicion: "Temporada 2025"
+        categoria: "usado"
     },
     {
         id: 3,
@@ -26,8 +23,7 @@ const productos = [
         descripcion: "Zuequitos con un diseño moderno y elegante, ideales para cualquier ocasión.",
         precio: 130000,
         imagen: "img/zuecos-celeste.webp",
-        categoria: "vegano",
-        condicion: "Temporada 2025"
+        categoria: "vegano"
     },
     {
         id: 4,
@@ -35,8 +31,7 @@ const productos = [
         descripcion: "Zapatos negros con un diseño clásico y elegante, ideales para ocasiones formales.",
         precio: 110000,
         imagen: "img/gatitos-negro.webp",
-        categoria: "como nuevo",
-        condicion: "Temporada 2024"
+        categoria: "como nuevo"
     },
     {
         id: 5,
@@ -44,8 +39,7 @@ const productos = [
         descripcion: "Zapatos con un diseño único y creativo, de la colección más innovadora.",
         precio: 140000,
         imagen: "img/caras-rosa.webp",
-        categoria: "usado",
-        condicion: "Nuevo Producto"
+        categoria: "usado"
     },
     {
         id: 6,
@@ -53,8 +47,7 @@ const productos = [
         descripcion: "Zapatos con una silueta muy 90s y un diseño que remonta a una abducción alienígena.",
         precio: 125000,
         imagen: "img/vaquitas.webp",
-        categoria: "vegano",
-        condicion: "Temporada 2024"
+        categoria: "vegano"
     }
 ];
 
