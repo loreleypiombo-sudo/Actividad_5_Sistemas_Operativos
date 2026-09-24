@@ -34,7 +34,7 @@ body {
 }
 
 h1{
-    font-family: var(--danfo);
+    font-family: var(--alata);
     color: var(--secondary-color) !important ; 
     background-color: var(--primary-color);
     padding: 10px;
