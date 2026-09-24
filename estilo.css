@@ -30,7 +30,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: var(--alata);
-    background-color: var(--arena-color) !important;
+    background-color: var(--primary-color) !important;
 }
 
 h1{
