@@ -22,6 +22,7 @@
 }
 
 p{
+    padding: 2rem;
     margin-bottom: 0 !important; 
 }
 
@@ -33,7 +34,7 @@ body {
 }
 
 h1{
-    font-family: var(--alata);
+    font-family: var(--danfo);
     color: var(--secondary-color) !important ; 
     background-color: var(--primary-color);
     padding: 10px;
